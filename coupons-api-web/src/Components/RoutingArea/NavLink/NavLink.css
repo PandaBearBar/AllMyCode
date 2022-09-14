@@ -1,0 +1,14 @@
+.NavLink {
+    color: #54BAB9;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+
+.NavLink .active {
+    color: royalblue;
+    border-bottom: 3px solid royalblue;
+    font-weight: 700;
+    font-size: xx-large;
+    text-decoration: dashed;
+}
