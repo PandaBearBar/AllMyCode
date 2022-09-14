@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d8d1015-acdd-4983-b1fb-c152ff322220" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bar'sProjects_gever-gever/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bar'sProjects_gever-gever/Bar'sProjects_gever-gever.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bar2.ZIP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bar2/Bar2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Copy_Of_Test_3.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Copy_Of_Test_3.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Copy_Of_Test_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mivhan3API/Beans/Reminder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mivhan3API/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mivhan3API/System/ReminderSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mivhan3API/Task/ImportantReminderTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mivhan3API/Task/ReminderTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mivhan3API/Utils/FactoryUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mivhan3API/mivhan3API.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam-04-08-22/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam-04-08-22/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam-04-08-22/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam-04-08-22/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam-04-08-22/Exam-04-08-22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exam-04-08-22/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Koritsu/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Koritsu/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Koritsu/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Koritsu/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Koritsu/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Koritsu/Koritsu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Koritsu/src/Beans/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NoderDocker/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NoderDocker/src/main/java/com/example/NoderDocker/controller/MyCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/art/titleArt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/beans/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/beans/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/beans/Coupon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/beans/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/beans/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/dao/Company/CompaniesDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/dao/Company/CompaniesDBDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/dao/Coupon/CouponsDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/dao/Coupon/CouponsDBDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/dao/Customer/CustomerDBDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/dao/Customer/CustomersDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/dao/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/db/ConnectionPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/db/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/db/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/db/ResultsUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/facade/Admin/AdminFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/facade/Admin/AdminFacadeImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/facade/Client/ClientFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/facade/Company/CompanyFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/facade/Company/CompanyFacadeImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/facade/Customer/CustomerFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/facade/Customer/CustomerFacadeImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/job/CouponExpirationDailyJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/loginSystem/ClientType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/loginSystem/LoginManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/systemException/ExceptionMSG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/systemException/SystemException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/src/main/java/tests/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/target/classes/Beans/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/target/classes/Beans/Company.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/target/classes/Beans/Coupon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/target/classes/Beans/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/target/classes/DB/ConnectionPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/target/classes/DB/JDBCUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project_1/target/classes/DB/ResultsUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../couponSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../couponSystem2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/bar/demo1/bins/catNchip/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/bar/demo1/bins/catNchip/Chip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/bar/demo1/bins/person/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/bar/demo1/bins/prototypeNsingletone/bins/myPrototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/bar/demo1/bins/prototypeNsingletone/bins/mySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/bar/demo1/bins/prototypeNsingletone/conf/myComposed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/bar/demo1/bins/prototypeNsingletone/conf/myConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/bar/demo1/bins/studentNteacher/Kobi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/bar/demo1/bins/studentNteacher/Ronu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/bar/demo1/bins/studentNteacher/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/java/com/bar/demo1/bins/studentNteacher/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo10/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo10/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo10/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo10/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo10/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo10/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo10/src/main/java/com/bar/demo10/Demo10Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo10/src/main/java/com/bar/demo10/bins/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo10/src/main/java/com/bar/demo10/bins/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo10/src/main/java/com/bar/demo10/bins/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo10/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo10/src/test/java/com/bar/demo10/Demo10ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/bar/demo2/advice/ErrDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/bar/demo2/advice/LibraryControllerAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/bar/demo2/bins/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/bar/demo2/bins/Books.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/bar/demo2/clr/on/AuthorsRepositoryTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/bar/demo2/clr/on/BooksRepositoryTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/bar/demo2/clr/on/LibraryServiceImplTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/bar/demo2/clr/on/RestTemplateTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/bar/demo2/config/SwaggerConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/bar/demo2/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/bar/demo2/controller/LibraryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/bar/demo2/exception/ExceptionMSG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/bar/demo2/exception/LibraryCustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/bar/demo2/models/DatesBetweenReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/bar/demo2/repositories/AuthorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/bar/demo2/repositories/BooksRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/bar/demo2/service/LibraryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/java/com/bar/demo2/service/LibraryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo2/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/src/main/java/com/bar/demo3/bins/Books.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/java/com/bar/demo6/Demo6Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/java/com/bar/demo6/Exception/CatExceptionMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/java/com/bar/demo6/Exception/CatsCustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/java/com/bar/demo6/advice/CatsControllerAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/java/com/bar/demo6/advice/ErrDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/java/com/bar/demo6/bins/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/java/com/bar/demo6/bins/Toy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/java/com/bar/demo6/clr/on/RepositoryTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/java/com/bar/demo6/clr/on/ServiceTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/java/com/bar/demo6/controller/CatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/java/com/bar/demo6/dto/ErrorDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/java/com/bar/demo6/dto/Hatol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/java/com/bar/demo6/dto/HatolPayloadDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/java/com/bar/demo6/dto/Mishak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/java/com/bar/demo6/dto/MishakPayloadDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/java/com/bar/demo6/repos/CatRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/java/com/bar/demo6/repos/ToyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/java/com/bar/demo6/service/CatService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/java/com/bar/demo6/service/CatServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo6/src/test/java/com/bar/demo6/Demo6ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7/src/main/java/com/example/demo7/bin/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7/src/main/java/com/example/demo7/bin/Books.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7/src/main/java/com/example/demo7/clr/on/RepositoryTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7/src/main/java/com/example/demo7/clr/on/ServiceTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7/src/main/java/com/example/demo7/dto/AuthorDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7/src/main/java/com/example/demo7/dto/BooksDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7/src/main/java/com/example/demo7/dto/ErrDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7/src/main/java/com/example/demo7/excp/ErrMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7/src/main/java/com/example/demo7/excp/LibraryCustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7/src/main/java/com/example/demo7/repos/AuthorRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7/src/main/java/com/example/demo7/repos/BooksRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7/src/main/java/com/example/demo7/service/LibraryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo7/src/main/java/com/example/demo7/service/LibraryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo8/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo8/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo8/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo8/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo8/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo8/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo8/src/main/java/com/preTest/demo8/Demo8Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo8/src/main/java/com/preTest/demo8/bins/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo8/src/main/java/com/preTest/demo8/bins/Toy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo8/src/main/java/com/preTest/demo8/clr/on/RepoTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo8/src/main/java/com/preTest/demo8/repos/CatRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo8/src/main/java/com/preTest/demo8/repos/ToyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo8/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo8/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo8/src/test/java/com/preTest/demo8/Demo8ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/advice/CouponControllerAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/advice/ErrDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/bins/art/AsciiArt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/bins/dto/CompanyDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/bins/dto/CompanyPayLoadDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/bins/dto/CouponDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/bins/dto/CouponPayLoadDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/bins/dto/CustomerDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/bins/dto/CustomerPayLoadDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/bins/dto/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/bins/dto/LoginResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/bins/entity/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/bins/entity/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/bins/entity/Coupon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/bins/entity/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/clr/off/CorsFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/clr/off/CouponSystemTestng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/clr/off/testingMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/clr/on/BasicDataForExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/config/MapConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/config/SwaggerConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/controller/CompanyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/controller/RegisterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/excapt/CouponSecurityException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/excapt/CouponSystemException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/excapt/ExceptionMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/excapt/SecurityMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/mapper/CompanyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/mapper/CompanyMapperImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/mapper/CouponMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/mapper/CouponsMapperImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/mapper/CustomerMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/mapper/CustomerMapperImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/repository/CompanyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/repository/CouponRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/secur/Information.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/secur/TokenManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/service/dailyTask/DailyEliminateJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/service/facade/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/service/facade/AdminServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/service/facade/ClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/service/facade/CompanyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/service/facade/CompanyServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/service/facade/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/service/facade/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/service/loginSystem/ClientType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/java/com/jb/project3/finalCouponSystem/service/loginSystem/LoginManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../finalCouponSystem/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/src/main/java/com/project/project2/bins/AsciiArt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/src/main/java/com/project/project2/bins/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/src/main/java/com/project/project2/bins/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/src/main/java/com/project/project2/bins/Coupon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/src/main/java/com/project/project2/bins/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/src/main/java/com/project/project2/clr/on/CouponSystemTestng.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/src/main/java/com/project/project2/excaptions/CouponSystemException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/src/main/java/com/project/project2/excaptions/ExceptionMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/src/main/java/com/project/project2/repository/CompanyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/src/main/java/com/project/project2/repository/CouponRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/src/main/java/com/project/project2/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/src/main/java/com/project/project2/service/dailyTask/DailyEliminateJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/src/main/java/com/project/project2/service/facade/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/src/main/java/com/project/project2/service/facade/AdminServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/src/main/java/com/project/project2/service/facade/ClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/src/main/java/com/project/project2/service/facade/CompanyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/src/main/java/com/project/project2/service/facade/CompanyServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/src/main/java/com/project/project2/service/facade/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/src/main/java/com/project/project2/service/facade/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/src/main/java/com/project/project2/service/loginSystem/ClientType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/src/main/java/com/project/project2/service/loginSystem/LoginManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../royalBlueSims_Birthdays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../royalBlueSims_Birthdays/royalBlueSims_Birthdays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springTest/src/main/java/com/test/springTest/advice/ErrDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springTest/src/main/java/com/test/springTest/advice/StudentControllerAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springTest/src/main/java/com/test/springTest/bins/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springTest/src/main/java/com/test/springTest/bins/Koteret.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springTest/src/main/java/com/test/springTest/bins/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springTest/src/main/java/com/test/springTest/bins/Topic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springTest/src/main/java/com/test/springTest/clr/on/SchoolTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springTest/src/main/java/com/test/springTest/config/SwaggerConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springTest/src/main/java/com/test/springTest/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springTest/src/main/java/com/test/springTest/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springTest/src/main/java/com/test/springTest/exception/ExceptionMSG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springTest/src/main/java/com/test/springTest/exception/SchoolSystemException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springTest/src/main/java/com/test/springTest/repos/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springTest/src/main/java/com/test/springTest/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springTest/src/main/java/com/test/springTest/service/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springTest/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taskBlingBling/src/main/java/bar/task/taskBlingBling/bins/Cache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taskBlingBling/src/main/java/bar/task/taskBlingBling/bins/Change.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taskBlingBling/src/main/java/bar/task/taskBlingBling/config/SwaggerConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taskBlingBling/src/main/java/bar/task/taskBlingBling/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taskBlingBling/src/main/java/bar/task/taskBlingBling/controller/ChangeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taskBlingBling/src/main/java/bar/task/taskBlingBling/service/Daily.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taskBlingBling/src/main/java/bar/task/taskBlingBling/service/ServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../taskBlingBling/src/main/java/bar/task/taskBlingBling/service/SystemService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28KaGKMPdEVGYAFEKgEXrESGFY5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../taskBlingBling" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\BarSa\IdeaProjects\Copy_Of_Test_3\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d8d1015-acdd-4983-b1fb-c152ff322220" name="Changes" comment="" />
+      <created>1650967635320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650967635320</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
