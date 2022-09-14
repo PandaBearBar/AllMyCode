@@ -1,0 +1,55 @@
+.outOfStock {
+  color: red;
+}
+
+.CouponItem {
+  display: inline-block;
+  margin: 10px;
+  margin-bottom: 70px;
+  width: 200px;
+  height: 350px;
+  border: 2px solid white;
+}
+
+.CouponItem img{
+  height: 100px;
+  width: 100%;
+}
+
+.CouponItem h2{
+  text-align: center;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  max-height: 350px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+
+
+.date {
+  color: grey;
+  font-size: 18px;
+}
+
+.card .buttons {
+  
+  border: none;
+  outline: 0;
+  padding: 12px;
+  margin:0px;
+  color: blue;
+  background-color: transparent;
+  text-align: center;
+  cursor: pointer;
+  width: 90%;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
